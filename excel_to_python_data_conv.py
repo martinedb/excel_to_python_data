@@ -1,4 +1,4 @@
-# Improved version: Open a window where you can paste your copied Excel data!
+## Improved version: Open a window where you can paste your copied Excel data!
 
 import tkinter as tk
 from tkinter import simpledialog
